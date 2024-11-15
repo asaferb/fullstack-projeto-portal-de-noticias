@@ -19,7 +19,7 @@ div:nth-child(3) {
 
 #secondary {
     padding-block: 14px;
-    border: solid 1px;
-    color: var(--stroke-color);
+    border: solid 1px var(--stroke-color);
     border-inline: none;
+    justify-content: space-between;
 }
